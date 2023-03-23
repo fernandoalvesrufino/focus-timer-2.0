@@ -54,7 +54,7 @@ This is a JavaScript project that implements a timer (Pomodoro-style) to increas
 
 ## How to Use
 
-To access the finished project, [click here](https://fernandoalvesrufino.github.io/focus-timer-plus/).
+To access the finished project, [click here](https://fernandoalvesrufino.github.io/focus-timer-2.0/).
 
 
 ## Files
@@ -142,7 +142,7 @@ Este é um projeto JavaScript que implementa um temporizador (estilo Pomodoro) p
 
 ## Como Usar
 
-- Para acessar ao projeto finalizado, [clique aqui](https://fernandoalvesrufino.github.io/focus-timer-plus/).
+- Para acessar ao projeto finalizado, [clique aqui](https://fernandoalvesrufino.github.io/focus-timer-2.0/).
 
 
 ## Arquivos

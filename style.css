@@ -82,7 +82,7 @@ button {
 }
 
 .display #controls button:hover svg path {
-  fill: var(--icon-color-card-selected);
+  fill: var(--primary-color);
 }
 
 button svg {

@@ -139,6 +139,7 @@ Este é um projeto JavaScript que implementa um temporizador (estilo Pomodoro) p
   - `chuva`
   - `cafeteria`
   - `lareira`
+- É possível ajustar o volume dos sons através do slider
 
 ## Como Usar
 

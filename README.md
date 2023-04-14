@@ -1,16 +1,13 @@
 <h1 align="center"> FocusTimer 2.0 - Pomodoro </h1>
 
-> [Technologies](#technologies)
-
-> [Project](#project)
-
-> [How to Use](#how-to-use)
-
-> [Files](#files)
-
-> [License](#license)
-
-> [README in Portuguese](#readme-in-portuguese)
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#files">Files</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#readme-in-portuguese">README in Portuguese</a>
+</p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -87,15 +84,13 @@ by Fernando Rufino
 
 <h1 align="center"> FocusTimer 2.0 - Pomodoro </h1>
 
-> [Tecnologias](#tecnologias)
-
-> [Projeto](#projeto)
-
-> [Como Usar](#como-usar)
-
-> [Arquivos](#arquivos)
-
-> [Licença](#licença)
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#arquivos">Arquivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
+</p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
